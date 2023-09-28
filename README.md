@@ -1,3 +1,7 @@
+### Contact
+join our discord bypass community 
+https://discord.gg/jPd7cRGQC3
+
 ### compile
 Open a new project in ``WVC`` set the build to release and to ``x64``
 put this code in a .cpp file
